@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Saad Ahmed\\source\\repos\\OrangHRM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Saad Ahmed\\source\\repos\\OrangHRM\\pages\\dashboardPage.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pages\\dashboardPage.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Saad Ahmed\\source\\repos\\OrangHRM\\pages\\loginPage.js||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pages\\loginPage.js||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Saad Ahmed\\source\\repos\\OrangHRM\\pages\\pimPage.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pages\\pimPage.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Saad Ahmed\\source\\repos\\OrangHRM\\tests\\createUserTest.spec.js||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tests\\createUserTest.spec.js||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Saad Ahmed\\source\\repos\\OrangHRM\\playwright.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:playwright.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Saad Ahmed\\source\\repos\\OrangHRM\\actions.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:actions.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 86,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "actions.js",
+              "DocumentMoniker": "C:\\Users\\Saad Ahmed\\source\\repos\\OrangHRM\\actions.js",
+              "RelativeDocumentMoniker": "actions.js",
+              "ToolTip": "C:\\Users\\Saad Ahmed\\source\\repos\\OrangHRM\\actions.js",
+              "RelativeToolTip": "actions.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-22T08:42:48.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "createUserTest.spec.js",
+              "DocumentMoniker": "C:\\Users\\Saad Ahmed\\source\\repos\\OrangHRM\\tests\\createUserTest.spec.js",
+              "RelativeDocumentMoniker": "tests\\createUserTest.spec.js",
+              "ToolTip": "C:\\Users\\Saad Ahmed\\source\\repos\\OrangHRM\\tests\\createUserTest.spec.js",
+              "RelativeToolTip": "tests\\createUserTest.spec.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-22T07:52:47.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "pimPage.js",
+              "DocumentMoniker": "C:\\Users\\Saad Ahmed\\source\\repos\\OrangHRM\\pages\\pimPage.js",
+              "RelativeDocumentMoniker": "pages\\pimPage.js",
+              "ToolTip": "C:\\Users\\Saad Ahmed\\source\\repos\\OrangHRM\\pages\\pimPage.js",
+              "RelativeToolTip": "pages\\pimPage.js",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAAAFgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-22T07:52:37.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dashboardPage.js",
+              "DocumentMoniker": "C:\\Users\\Saad Ahmed\\source\\repos\\OrangHRM\\pages\\dashboardPage.js",
+              "RelativeDocumentMoniker": "pages\\dashboardPage.js",
+              "ToolTip": "C:\\Users\\Saad Ahmed\\source\\repos\\OrangHRM\\pages\\dashboardPage.js",
+              "RelativeToolTip": "pages\\dashboardPage.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-22T07:52:29.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "loginPage.js",
+              "DocumentMoniker": "C:\\Users\\Saad Ahmed\\source\\repos\\OrangHRM\\pages\\loginPage.js",
+              "RelativeDocumentMoniker": "pages\\loginPage.js",
+              "ToolTip": "C:\\Users\\Saad Ahmed\\source\\repos\\OrangHRM\\pages\\loginPage.js",
+              "RelativeToolTip": "pages\\loginPage.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-22T07:51:58.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "playwright.config.js",
+              "DocumentMoniker": "C:\\Users\\Saad Ahmed\\source\\repos\\OrangHRM\\playwright.config.js",
+              "RelativeDocumentMoniker": "playwright.config.js",
+              "ToolTip": "C:\\Users\\Saad Ahmed\\source\\repos\\OrangHRM\\playwright.config.js",
+              "RelativeToolTip": "playwright.config.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-22T07:50:44.918Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 314,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

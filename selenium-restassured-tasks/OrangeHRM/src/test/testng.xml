@@ -1,0 +1,19 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Automation Suite" parallel="tests" thread-count="1">
+    <listeners>
+        <listener class-name="listeners.TestExecutionListener"/>
+    </listeners>
+
+    <test name="Selenium Tests">
+        <classes>
+            <class name="Selenium.UiTest"></class>
+        </classes>
+    </test>
+
+    <test name="Rest Assured Tests">
+        <classes>
+            <class name="RestAssured.ApiTest"></class>
+        </classes>
+    </test>
+
+</suite>
